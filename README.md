@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Javascript-black?style=flat-square&amp;logo=Javascript" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&amp;logo=vuedotjs" alt="Vue.js">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Discord.py-black?style=flat-square&amp;logo=Discord" alt="Discord">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Discord API-black?style=flat-square&amp;logo=Discord" alt="Discord">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&amp;logo=fastapi" alt="FastAPI">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&amp;logo=phpstorm" alt="PHP">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&amp;logo=cplusplus" alt="C++">&nbsp;&nbsp;&nbsp;&nbsp;
