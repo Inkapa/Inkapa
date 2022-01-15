@@ -60,4 +60,7 @@
 <a href="https://www.linkedin.com/in/liam-cornu/">
   <img src="https://img.shields.io/badge/-Liam Cornu-black?style=flat-square&amp;logo=LinkedIn" alt="Linkedin">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
+<a href="https://discord.liam.social">
+  <img src="https://img.shields.io/badge/-Liam Cornu-black?style=flat-square&amp;logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
 </div>
