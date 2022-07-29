@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/-Postgres-black?style=flat-square&amp;logo=postgresql&logoColor=white" alt="Postgres">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql&logoColor=white" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Oracle Database-black?style=flat-square&amp;logo=oracle" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Redis-black?style=flat-square&amp;logo=redis&logoColor=white" alt="Redis">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&amp;logo=prisma&logoColor=white" alt="Prisma">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h3>Learning</h3>
 <div>
