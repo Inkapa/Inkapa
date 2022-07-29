@@ -1,5 +1,6 @@
 <h1 align="center"><b>Liam CORNU</b></h1>
-<p>My name is Liam Cornu, I am a casual French 🇫🇷 / British 🇬🇧 / Irish 🇮🇪 programmer. I'm currently a second year Computer Science Engineering Student in Reims, France.</p>
+<p>My name is Liam Cornu, I am a casual French 🇫🇷 / British 🇬🇧 / Irish 🇮🇪 developer.</p>
+<p>I'm currently an Engineering apprentice and student at INP ENSEEIHT in Toulouse, France, where I study Computer Science and Telecommunication.</p>
 <p>Feel free to check out my repos, you can start by the ones pinned below!</p>
 
 <h2 align="center">What am I working on?</h2>
