@@ -1,7 +1,7 @@
 <h1 align="center"><b>Liam CORNU</b></h1>
-<p>My name is Liam Cornu, I am a casual French 🇫🇷 / British 🇬🇧 / Irish 🇮🇪 developer.</p>
-<p>I'm currently an Engineering apprentice and student at INP ENSEEIHT in Toulouse, France, where I study Computer Science and Telecommunication.</p>
-<p>Feel free to check out my repos, you can start by the ones pinned below!</p>
+<p>👋 My name is Liam Cornu, I am an Engineering apprentice and student at INP ENSEEIHT in Toulouse, France.</p>
+<p>🎓 I'm currently studying Computer Science and Telecommunication.</p>
+<p>⬇️ Feel free to check out my repos, you can start by the ones pinned below!</p>
 
 <h2 align="center">What am I working on?</h2>
 
@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Javascript-black?style=flat-square&amp;logo=Javascript" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=react" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&amp;logo=next.js" alt="Next.js">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&amp;logo=vuedotjs" alt="Vue.js">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Discord API-black?style=flat-square&amp;logo=Discord" alt="Discord">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&amp;logo=fastapi" alt="FastAPI">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&amp;logo=phpstorm" alt="PHP">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&amp;logo=cplusplus" alt="C++">&nbsp;&nbsp;&nbsp;&nbsp;
