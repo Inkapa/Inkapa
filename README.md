@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Golang-black?style=flat-square&amp;logo=go" alt="Golang">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&amp;logo=nodedotjs" alt="Node.JS">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Tailwind-black?style=flat-square&amp;logo=tailwind-css" alt="Tailwind">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&amp;logo=firebase" alt="Firebase">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
