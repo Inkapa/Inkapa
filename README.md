@@ -1,9 +1,9 @@
 <h1 align="center"><b>Liam CORNU</b></h1>
-<p>👋 My name is Liam Cornu, I am an Engineering apprentice and student at INP ENSEEIHT in Toulouse, France.</p>
-<p>🎓 I'm currently studying Computer Science and Telecommunication.</p>
+<p>👋 My name is Liam, I am a part-time Software Developer and ex-Engineering apprentice living in France.</p>
+<p>🎓 I'm currently studying Mandarin Chinese (官話).</p>
 <p>⬇️ Feel free to check out my repos, you can start by the ones pinned below!</p>
 
-<h2 align="center">What am I working on?</h2>
+<h2 align="center">What am I working with?</h2>
 
 <h3>Languages and frameworks
 <br>
@@ -36,36 +36,35 @@
 <img src="https://img.shields.io/badge/-Tailwind-black?style=flat-square&amp;logo=tailwind-css" alt="Tailwind">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&amp;logo=firebase" alt="Firebase">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
-<h2 align="center">My Contributions</h2>
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
+   
+<h2 align="center"></h2>
+<table align="center">
+ <thead>
+     <tr>
+         <th>Language Distribution</th>
+         <th colspan="3" width="400px">Contact</th>
      </tr>
-      <tr>
-       <td><img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=inkapa&count_private=true&show_icons=true&theme=tokyonight"> </td>
-       <td><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkapa&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+ </thead>
+ <tbody align="center">
+     <tr>
+         <td rowspan="5"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkapa&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
      </tr>
-   </table>
-</p>
+     <tr>
+         <td>Website</td>
+         <td><a href="https://liam.social">https://liam.social</a></td>
+     </tr>
+     <tr>
+         <td>Email</td>
+         <td><a href="mailto:contact@liam.social">contact@liam.social</a></td>
+     </tr>
+     <tr>
+         <td>Linkedin</td>
+         <td><a href="https://www.linkedin.com/in/liam-cornu/">liam-cornu</td>
+     </tr>
+     <tr>
+         <td>Medium</td>
+         <td><a href="https://medium.com/@liamco">@liamco</a></td>
+     </tr>
+ </tbody>
+</table>
 
-<h2 align="center">Connect with me on</h2>
-<div align="center">
-<a href="https://github.com/Inkapa">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://liam.social">
-  <img src="https://img.shields.io/badge/-Website-black?style=flat-square&amp;logo=vuedotjs&logoColor=white" alt="Personal Website">&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
-<a href="mailto:liamco@pm.me">
-  <img src="https://img.shields.io/badge/-Email-black?style=flat-square&amp;logo=protonmail&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://www.linkedin.com/in/liam-cornu/">
-  <img src="https://img.shields.io/badge/-Liam Cornu-black?style=flat-square&amp;logo=LinkedIn" alt="Linkedin">&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://discord.liam.social">
-  <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&amp;logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
-</div>
