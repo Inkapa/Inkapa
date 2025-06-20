@@ -1,6 +1,6 @@
 <h1 align="center"><b>Liam CORNU</b></h1>
-<p>👋 My name is Liam, I am a part-time Software Developer and ex-Engineering apprentice living in France.</p>
-<p>🎓 I'm currently studying Mandarin Chinese (官話).</p>
+<p>👋 My name is Liam, I am a part-time Software Developer and ex-Enginee living in Toulouse, France.</p>
+<p>🎓 I'm currently studying for an Art Degree.</p>
 <p>⬇️ Feel free to check out my repos, you can start by the ones pinned below!</p>
 
 <h2 align="center">What am I working with?</h2>
