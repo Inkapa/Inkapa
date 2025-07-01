@@ -11,7 +11,7 @@
 <div>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Javascript-black?style=flat-square&amp;logo=Javascript" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-C++-black?style=flat-square&amp;logo=cplusplus" alt="C++">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&amp;logo=phpstorm" alt="PHP">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=react" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&amp;logo=next.js" alt="Next.js">&nbsp;&nbsp;&nbsp;&nbsp;
