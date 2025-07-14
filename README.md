@@ -48,7 +48,7 @@
          <td rowspan="5"><img alt="Top Langs" src="https://readme-stats-feaoc7amm-inkapas-projects.vercel.app/api/top-langs/?username=inkapa&langs_count=10&theme=tokyonight&layout=compact"></td>
      </tr>
      <tr>
-         <td>Website</td>
+         <td>Portfolio</td>
          <td><a href="https://liam.social">https://liam.social</a></td>
      </tr>
      <tr>
