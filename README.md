@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&amp;logo=vuedotjs" alt="Vue.js">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&amp;logo=fastapi" alt="FastAPI">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Tailwind-black?style=flat-square&amp;logo=tailwind-css" alt="Tailwind">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&amp;logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&amp;logo=three.js&logoColor=white" alt="Three.js">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h3>Database</h3>
