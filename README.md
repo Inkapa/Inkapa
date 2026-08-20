@@ -1,7 +1,9 @@
+
 <h1 align="center"><b>Liam CORNU</b></h1>
 <p>My name is Liam, I am a Software Engineer and budding Artist living in Toulouse, France.</p>
 <p>Currently working on <a href="https://byronic.art">https://byronic.art</a></p>
-<p>You can also check out `ssh liam.gl` in your terminal!</p>
+
+You can also check out `ssh liam.gl` in your terminal! 
 <p>Feel free to check out my repos, you can start by the ones pinned below!</p>
 
 <h2 align="center">What am I working with?</h2>
