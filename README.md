@@ -28,11 +28,10 @@ You can also check out `ssh liam.gl` in your terminal!
 </div>
 <h3>Database</h3>
 <div>
-<img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&amp;logo=supabase" alt="Firebase">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&amp;logo=supabase" alt="Supabase">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Postgres-black?style=flat-square&amp;logo=postgresql&logoColor=white" alt="Postgres">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql&logoColor=white" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&amp;logo=redis&logoColor=white" alt="Redis">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&amp;logo=prisma&logoColor=white" alt="Prisma">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h3>Learning</h3>
 <div>
